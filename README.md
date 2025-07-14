@@ -1,5 +1,7 @@
 ## In the novel framework: 3D Collatz Octave Model (3DCOM), space, mass, and time emerge from recursive wave interactions governed by a topological attractor field. ##
 
+https://doi.org/10.5281/zenodo.15882510
+
 We derive a dimensionless dark energy density Ω_Λ as a residual curvature effect from incomplete recursive mirroring. The derived formula:
 Ω_Λ = HQS × (π/2 + LZ + √α + π/(100))
 
